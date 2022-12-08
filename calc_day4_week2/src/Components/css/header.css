@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-color:  #BEA8AA;
+    color: black;
+    padding: 2%;
+}
+
+h1{
+    text-align: center;
+}

@@ -1,0 +1,48 @@
+.main{
+    width: 100%;
+    height: 800px;
+    background-color: #CFC7D2;
+}
+
+.calc{
+    width: 20%;
+    height: max-content;
+    background-color: darkgrey;
+    margin: 0 auto;
+}
+
+
+.ResultArea input{
+width: 100%;
+padding: 1% 0;
+border: none;
+text-align: right;
+font-size: 40pt;
+}
+
+
+
+
+.btn, .btn-sp{
+    width: 23%;
+    height: 15%;
+    font-size: 30pt;
+    border-radius: 10px;
+    margin: 1%;
+}
+
+.btn-sp{
+    
+    background-color: #CFC7D2;
+    
+}
+
+.btn-v-sp{
+    width: 48%;
+    height: 15%;
+    font-size: 30pt;
+    border-radius: 10px;
+    margin: 1%;
+    background-color: black;
+    color: #fff;
+}
